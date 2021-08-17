@@ -1,0 +1,188 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "c2b276c4-5997-4ef4-9dd6-49dfcc7a6d19": {
+          "type": "image",
+          "settings": {
+            "remove_shadow": false,
+            "title": "Two line\nslide title.",
+            "title_color": "#FFFFFF",
+            "title_color_mobile": "#000000",
+            "title_size": 80,
+            "title_size_mobile": 40,
+            "subheading": "And an optional subheading",
+            "subheading_size": 40,
+            "subheading_size_mobile": 40,
+            "subheading_color": "#FFFFFF",
+            "subheading_color_mobile": "#FFFFFF",
+            "subheading2": "And another optional subheading",
+            "subheading2_size": 20,
+            "subheading2_size_mobile": 20,
+            "subheading2_color": "#FFFFFF",
+            "subheading2_color_mobile": "#FFFFFF",
+            "link": "",
+            "background_color": "#ffffff",
+            "link_text": "Optional button",
+            "link_text_color": "#ff4530",
+            "link_text_color_mobile": "#ff4530",
+            "link_text_background_color": "#FFFFFF",
+            "link_text_background_color_mobile": "#FFFFFF",
+            "text_align": "vertical-bottom horizontal-left",
+            "video": "",
+            "video_mobile": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "c2b276c4-5997-4ef4-9dd6-49dfcc7a6d19"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "mobile_height_image": false,
+        "parallax": true,
+        "style": "minimal",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "w-template-landing": {
+      "type": "w-template-landing",
+      "blocks": {
+        "dc0b1884-700b-47e0-a1a1-20500c4f3ca2": {
+          "type": "hero",
+          "disabled": true,
+          "settings": {
+            "hero_img_desktop": "shopify:\/\/shop_images\/header_site_summerv2_slide1.jpg",
+            "hero_img_mobile": "shopify:\/\/shop_images\/header_site_summerv2_slide2.jpg",
+            "hero_svg": "",
+            "title": ""
+          }
+        },
+        "95fec111-a724-4c56-8e47-8a19901ff143": {
+          "type": "promo_product",
+          "settings": {
+            "promo_product": "",
+            "promo_title": "Un Masque en stick offert grâce à Romy avec votre box de septembre !",
+            "promo_content": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim dolorem consectetur dicta? Quos, tenetur quisquam.<\/p>",
+            "promo_code": "TESTABO1EURO",
+            "promo_label": "Offre sous engagement 3 mois",
+            "engagement": true
+          }
+        },
+        "caa625c3-9e03-43a3-811b-089f62de5c03": {
+          "type": "images_grid",
+          "settings": {
+            "image_desktop1": "shopify:\/\/shop_images\/2021_Ginger_Box_Juin_Produit__003_Carree.jpg",
+            "image_mobile1": "shopify:\/\/shop_images\/2021_Ginger_Box_Juin_Produit__002_Carree_1.jpg",
+            "image_desktop2": "shopify:\/\/shop_images\/2021_Ginger_Box_Juin_Produit__003_Carree.jpg",
+            "image_mobile2": "shopify:\/\/shop_images\/2021_Ginger_Box_Juin_Produit__003_Carree.jpg",
+            "promo_btn_label": "",
+            "promo_btn_url": "",
+            "promo_label": ""
+          }
+        },
+        "371edfd2-22f3-45e6-820b-144419c40b19": {
+          "type": "images_grid",
+          "settings": {
+            "image_desktop1": "shopify:\/\/shop_images\/2021_Ginger_Box_Juin_Produit__003_Carree.jpg",
+            "image_mobile1": "shopify:\/\/shop_images\/2021_Ginger_Box_Juin_Produit__003_Carree.jpg",
+            "image_desktop2": "shopify:\/\/shop_images\/2021_Ginger_Box_Juin_Produit__003_Carree.jpg",
+            "image_mobile2": "shopify:\/\/shop_images\/2021_Ginger_Box_Juin_Produit__003_Carree.jpg",
+            "promo_btn_label": "Je les veux !",
+            "promo_btn_url": "#subscribe",
+            "promo_label": ""
+          }
+        },
+        "f97a7051-f640-4766-bb13-44d0855553a6": {
+          "type": "reviews",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "dc0b1884-700b-47e0-a1a1-20500c4f3ca2",
+        "95fec111-a724-4c56-8e47-8a19901ff143",
+        "caa625c3-9e03-43a3-811b-089f62de5c03",
+        "371edfd2-22f3-45e6-820b-144419c40b19",
+        "f97a7051-f640-4766-bb13-44d0855553a6"
+      ],
+      "settings": {
+      }
+    },
+    "content-engagements": {
+      "type": "content-engagements",
+      "settings": {
+        "title": "",
+        "text": "<p>A sentence or two introducing your brand, what you sell, and what makes your brand compelling to customers.<\/p>",
+        "align_text": "center",
+        "narrow_column": false,
+        "enlarge_text": true,
+        "divider": false
+      }
+    },
+    "text-columns": {
+      "type": "text-columns",
+      "blocks": {
+        "text-columns-pro-1627984277-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "title": "Example title",
+            "margin_top_title": 0,
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "margin_top_text": 0,
+            "button_link": ""
+          }
+        },
+        "text-columns-pro-1627984277-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "title": "Example title",
+            "margin_top_title": 0,
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "margin_top_text": 0,
+            "button_link": ""
+          }
+        },
+        "text-columns-pro-1627984277-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "title": "Example title",
+            "margin_top_title": 0,
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "margin_top_text": 0,
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text-columns-pro-1627984277-0",
+        "text-columns-pro-1627984277-1",
+        "text-columns-pro-1627984277-2"
+      ],
+      "settings": {
+        "title": "La nouvelle box de collants éthiques et stylées",
+        "subtitle": "15,90€\/mois",
+        "align_text": "center",
+        "color_background": "#fccac0",
+        "color_text": "#ff4530",
+        "divider": false,
+        "size": "large",
+        "button_label": "",
+        "button_link": ""
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "w-template-landing",
+    "content-engagements",
+    "text-columns"
+  ]
+}
