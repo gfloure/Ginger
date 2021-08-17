@@ -1,0 +1,12 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "slideshow"
+  ]
+}
